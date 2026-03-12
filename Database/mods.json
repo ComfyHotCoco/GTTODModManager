@@ -1,6 +1,35 @@
 {
 "mods" : [
         [
+            "THESE MODS ARE FOR THE \"PAST AND PRESENT\" UPDATE!",
+            {
+                "Name" : "",
+                "Description" : "THEY WILL NOT WORK ON THE PLAYTEST, YOU WILL GET A BLACK SCREEN!",
+                "Version" : "5.4.23.1",
+                "Download" : "https://gttodmods.vegapatch.net/BepInEx.zip",
+                "Dependencies" : [],
+                "Files" : [
+
+                ],
+                "VersionInfoFile" : "urmum.dll",
+                "MoreInfoLink" : null,
+                "Deprecated" : true
+            },
+            {
+                "Name" : "",
+                "Description" : "YOU CAN UNINSTALL ALL MODS BY UNCHECKING \"BepInEx\" BELOW AND CLICKING \"Install or Update\" IN THE BOTTOM RIGHT CORNER!",
+                "Version" : "5.4.23.1",
+                "Download" : "https://gttodmods.vegapatch.net/BepInEx.zip",
+                "Dependencies" : [],
+                "Files" : [
+
+                ],
+                "VersionInfoFile" : "urmum.dll",
+                "MoreInfoLink" : null,
+                "Deprecated" : true
+            }
+        ],
+        [
             "Core",
             {
                 "Name" : "BepInEx",
