@@ -1,4 +1,4 @@
-# Get to the Orange Door Mod Manager
+# Get To The Orange Door Mod Manager
 
 A simple mod manager for Get To The Orange Door.
 
@@ -10,4 +10,4 @@ A simple mod manager for Get To The Orange Door.
 
 ## Want to add your mod?
 
-If you are interested in adding your mod please contact @aldin101 on Discord!
+If you are interested in adding your mod please contact @comfyhotcoco on Discord!
